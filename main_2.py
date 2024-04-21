@@ -53,8 +53,8 @@ expander.write("How are you?")
 
 ##1. Spinner
 
-with st.spinner("Loading..."):
-	time.sleep(5)
+#with st.spinner("Loading..."):
+	#time.sleep(5)
 
 	##2. Types of messages
 
