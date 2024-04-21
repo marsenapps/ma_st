@@ -5,7 +5,12 @@ import pandas as pd
 import streamlit.components.v1 as components
 
 components.html("<html><body><div style=\"background-color:tomato;padding:10px\"><h1 style=\"color:white;text-align:center;\"> Welcome to MSTECH</h1></div></body></html>")
+
+
 st.title("Happy to learn with you all...")
+
+components.html("<html><body><div style=\"background-color:tomato; padding:10px\"><h2 style=\"color:white;text-align:center;\"> Welcome to the Portal...</h2><div></div></body></html>")
+
 
 html_temp="""
 <div style="background-color:tomato; padding:10px">
