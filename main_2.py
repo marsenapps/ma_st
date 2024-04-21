@@ -9,10 +9,10 @@ components.html("<html><body><div style=\"background-color:tomato;padding:10px\"
 
 html_temp="""
 <div style="background-color:tomato; padding:10px">
-<h2 style="color:white;text-align:center;"> Welcome to Streamlit</h2
+<h2 style="color:white;text-align:center;"> Welcome to the Portal...</h2
 <div>
 """
-st.write("Here you can lean everything about Streamlit")
+st.write("Here you can load everything about Data Science and Big Data")
 
 ## Part#2: Creating dataset and viz
 df=pd.DataFrame({'First':['None',1,2,3,4,5],
