@@ -9,7 +9,7 @@ components.html("<html><body><div style=\"background-color:tomato;padding:10px\"
 
 ##st.title("Happy to learn with you all...")
 
-components.html("<html><body><div style=\"background-color:skyblue; padding:3px\"><h3 style=\"color:pink;text-align:center;\">Happy to learn with you all....</h3><div></div></body></html>")
+components.html("<html><body><div style=\"background-color:yellow; padding:3px\"><h3 style=\"color:;text-align:center;\">Happy to learn with you all....</h3><div></div></body></html>")
 
 
 html_temp="""
