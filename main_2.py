@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit.components.v1 as components
 
 components.html("<html><body><div style=\"background-color:tomato;padding:10px\"><h1 style=\"color:white;text-align:center;\"> Welcome to MSTECH</h1></div></body></html>")
-#st.title("Happy to learn with you all...")
+st.title("Happy to learn with you all...")
 
 html_temp="""
 <div style="background-color:tomato; padding:10px">
