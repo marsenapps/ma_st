@@ -63,5 +63,4 @@ st.success("Loading Skills...")#Successful
 
  ## 3. Balloons animations
 with st.balloons():
-	#time.sleep(10)
-
+	time.sleep(10)
